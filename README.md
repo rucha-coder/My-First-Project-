@@ -1,3 +1,4 @@
+- Associated with Duke University - Coursera
 - 👋 Hi, I’m @rucha-coder
 - 👀 I’m interested in working on exciting data projects where I can apply various skills that I am constantly learning.
 - 🌱 I’m currently learning and updating myself in Data Analytics - Applied Statistics, ML, Linear Algebra; Domain - Customer Insights (Marketing); and Tools - Python, R, SQL, Tableau, SPSS, Google Analytics, Google Colab, Google Sheets.
